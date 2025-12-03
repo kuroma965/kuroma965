@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reqiler&layout=compact&langs_count=10)
+
 <!--
 **kuroma965/kuroma965** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
